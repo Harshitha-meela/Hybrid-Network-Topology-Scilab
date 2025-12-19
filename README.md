@@ -11,3 +11,5 @@ using Bus, Star, and Ring topologies with the NARVAL toolbox.
 ## Tools Used
 - Scilab
 - NARVAL Toolbox
+
+This project was developed as part of a Computer Networks laboratory assignment.
