@@ -1,2 +1,13 @@
-# Hybrid-Network-Topology-Scilab
-Hybrid topology using Bus, Star and Ring in Scilab (NARVAL)
+# Hybrid Network Topology using Scilab
+
+This repository contains the Scilab implementation of a hybrid network topology
+using Bus, Star, and Ring topologies with the NARVAL toolbox.
+
+## Contents
+- Experiment8_HybridTopology.sce — Scilab code for hybrid topology
+- Node and edge analysis
+- Scenario-based network design (University Campus)
+
+## Tools Used
+- Scilab
+- NARVAL Toolbox
